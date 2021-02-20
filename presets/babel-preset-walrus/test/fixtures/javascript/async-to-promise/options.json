@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["../../../../src/index.ts", {
+      "env": {
+        "modules": "commonjs"
+      },
+      "asyncToPromises": true
+    }]
+  ],
+  "sourceType": "module"
+}

@@ -1,0 +1,8 @@
+{
+  "presets": [
+    ["../../../../src/index.ts", {
+      "env": {},
+      "typescript": true
+    }]
+  ]
+}
